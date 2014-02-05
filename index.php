@@ -28,7 +28,6 @@
 // base classes
 require_once('lib/incl/bootstrap.class.php');
 require_once('lib/incl/controller.class.php');
-require_once('lib/incl/model.class.php');
 require_once('lib/incl/view.class.php');
 
 // global helpers
