@@ -30,7 +30,7 @@ class Bootstrap {
 				$url[ 0 ] = 'index';
 			} else if( ctype_digit(strval($url[ 0 ])) ) {
 				$tmp = $url[ 0 ];
-				$url[ 0 ] = 'welcome';
+				$url[ 0 ] = 'i';
 				$url[ 2 ] = $url[ 1 ];
 				$url[ 1 ] = $tmp;
 			}
