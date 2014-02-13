@@ -8,8 +8,8 @@
 				<strong>A quick and simple service for getting pictures of doge for use as placeholders in your designs or code.</strong> Just put your image size (width <span class="amp">&amp;</span> height) after our URL and you'll get a&nbsp;placeholder.
 			</p>
 				<p class="links">
-					Like this: <a href="/200/300">http://www.place-doge.com/200/300</a><br>
-					or: <a href="/i/200/300">http://www.place-doge.com/i/200/300</a>
+					Like this: <a href="http://www.place-doge.com/200/300" target="_blank">http://www.place-doge.com/200/300</a><br>
+					or: <a href="http://www.place-doge.com/i/200/300" target="_blank">http://www.place-doge.com/i/200/300</a>
 				</p>
 			<img id="image-0" src="i/408/287" alt=""/>
 		</div>
